@@ -1,0 +1,31 @@
+<PubHist<[1]<type="WebComponent">
+<name="{c:\projects\blue monkey 3\blue monkey 3.webprojects\default.webproject\rebuildux.a5wcmp}">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('27/06/2017 09:19:39 21 am')>
+>
+<[2]<type="css">
+<name="a5system">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('27/06/2017 09:19:39 35 am')>
+>
+<[3]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('27/06/2017 09:21:12 09 am')>
+>
+<[4]<type="WebComponent">
+<name="{c:\projects\blue monkey rehaul\blue monkey rehaul.webprojects\default.webproject\monkey.a5wcmp}">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('27/06/2017 09:21:12 26 am')>
+>
+<[5]<type="css">
+<name="a5system">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('27/06/2017 09:21:12 33 am')>
+>
+<[6]<type="css">
+<name="mobblue">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('27/06/2017 09:21:12 44 am')>
+>
+>
